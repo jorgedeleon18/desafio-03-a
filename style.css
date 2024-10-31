@@ -1,0 +1,79 @@
+body{
+  background-color:rgb(38, 51,56);
+  color:rgb(180, 204, 214);
+  font-family: "lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+p{
+  text-align: Justify;
+}
+
+.titulo{
+  color: rgb(104, 133, 147);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 70px;
+  font-family: Impact, Charcoal,sans-serif;
+  padding: 15px;
+}
+
+.subtitulo-aspiradoras{
+  color: rgb(236, 211, 195);
+}
+
+.fuente{
+  font-family: arial, gadget,sans-serif;
+}
+
+
+.estilo{
+  font-style: italic;
+}
+
+.variante{
+  font-variant: small-caps;
+}
+
+.tamaño{
+  font-size: 25px;
+}
+
+.subtitulo-celu{
+  color: rgb(165, 195, 205);
+}
+
+.img-aspiradoras{
+  border: 10px solid rgb(230, 215, 200);
+}
+
+.margen{
+  margin-left: 55px;
+}
+
+.img-celulares{
+  border: 5px solid rgb(165, 198, 200);
+}
+
+.subtitulo-consolas{
+  color: rgb(190, 190, 190);
+}
+
+.img-consolas{
+  border: 5px solid rgb(255, 255, 255);
+}
+
+.subtitulo-home-theaters{
+  color: rgb(99, 100, 105);
+}
+
+.img-home-teathers{
+  border: 5px solid rgb(170, 170, 170);
+}
+
+.subtitulo-televisores{
+  color: rgb(180, 180, 180);
+}
+
+.img-tele{
+  border: 5px solid rgb(255, 255,255);
+}
